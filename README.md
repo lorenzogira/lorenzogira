@@ -1,7 +1,6 @@
 ### Welcome to my profile!
 
-cybersec enthusiast, and developer focusing on secure coding, vulnerability analysis and creating tools.
-
+cybersec enthusiast, into finances, AI and data
 
 <h3 align="left">Toolbox:</h3>
 <div>
