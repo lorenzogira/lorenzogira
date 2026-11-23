@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-cybersec enthusiast, into finances, AI and data
+comercial intelligence analyst, cybersec enthusiast, into finances, AI and data
 
 <h3 align="left">Toolbox:</h3>
 <div>
